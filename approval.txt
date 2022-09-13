@@ -13,3 +13,4 @@
 1|0|4|2|6|u|0|_|a|4|2|6 (kal sokal)
 1|0|0|1|9|u|0|_|a|1|9   (kal sokal)
 1|0|4|9|3|u|0|_|a|4|9|3 (agami robibar porjonto)
+1|0|2|1|0|u|0|_|a|2|1|0 (4 tarikh porjonto)
